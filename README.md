@@ -8,3 +8,6 @@ Contains the themes used by the example project. The following themes are includ
 - Tomorrow Night
 
 The RunestoneThemeCommon package includes the types used across all of the themes and the example project.
+
+# Credit
+- All credit goes to Simon Støvring (https://github.com/simonbs)
